@@ -1,5 +1,5 @@
 # MLOps Pipeline — Predicción de Comportamiento de Pago de Créditos
-
+**Demo en vivo:** [Tablero de monitoreo de drift](https://credit-risk-monitoring.streamlit.app/)
 Proyecto de MLOps: modelo predictivo de comportamiento de pago de créditos para clientes nuevos.
 
 ## Caso de negocio
